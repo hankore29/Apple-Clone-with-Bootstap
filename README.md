@@ -1,1 +1,1 @@
-# Apple-Clone-with-Bootstap
+# Apple-with-Bootstrap
